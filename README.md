@@ -30,3 +30,5 @@ Enter the frequency and amplitude, then choose:
 ## Output
 
 The program generates and displays the selected waveform.
+
+![Signal Generator Output](signal_plot.png)
